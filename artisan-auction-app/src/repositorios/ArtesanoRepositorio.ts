@@ -1,6 +1,6 @@
 import { Artesano } from '../tipos/Artesano';
 
-const IP_COMPUTADORA = '192.168.1.73';
+const IP_COMPUTADORA = '10.16.72.132';
 const URL_BASE = `http://${IP_COMPUTADORA}:3000`;
 const TIEMPO_LIMITE_MS = 8000;
 
